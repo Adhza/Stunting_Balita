@@ -2,6 +2,8 @@
 
 **Make machine learning models that will be implemented into a website.**
 
+This project was carried out to conduct research on the features that influence toddler stunting in children. later from these features a machine learning model will be created using the supervised learning method, namely random forest.
+
 In this project contains the steps in making a machine learning model, which are as follows:
 1. Import Data
 2. Preprocessing Data
